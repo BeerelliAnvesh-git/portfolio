@@ -15,6 +15,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
         </Routes>
       </main>
+
       <footer className="footer">
         <p>© 2026 Beerelli Anvesh · Built with React</p>
       </footer>
